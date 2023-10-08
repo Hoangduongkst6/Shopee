@@ -60,14 +60,21 @@
 
     .header__bars {
         display: block;
+        padding: 0 4px;
+        margin-right: 16px;
     }
     .header__cart,
     .header__logo {
         width: unset;
     }   
 
+    .header__cart {
+        margin-right: 10px;
+    }
+
     .header__mobile-search {
         display: block;
+        padding: 0 4px;
     }
 
     .header__search {
