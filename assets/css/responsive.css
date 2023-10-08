@@ -36,9 +36,6 @@
         text-align: right;
     }
     
-
-
-    
 }
 
 /* Mobile */
@@ -128,6 +125,10 @@
 
     .footer__content {
         padding: 0 4px;
+    }
+    
+    .container__content {
+        margin: 0;
     }
 
 }
