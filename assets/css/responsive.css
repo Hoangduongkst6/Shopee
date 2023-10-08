@@ -132,12 +132,12 @@
     }
 
     .home-product-item__sale-off-percent {
-        padding-top: 2px;
+        padding-top: 4px;
         line-height: 10px;
     }
 
     .home-product-item__sale-off-label {
-            font-size: 1rem;
+            font-size: 1.2rem;
     }
 
 }
