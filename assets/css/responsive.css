@@ -131,4 +131,13 @@
         margin: 0;
     }
 
+    .home-product-item__sale-off-percent {
+        padding-top: 2px;
+        line-height: 10px;
+    }
+
+    .home-product-item__sale-off-label {
+            font-size: 1rem;
+    }
+
 }
