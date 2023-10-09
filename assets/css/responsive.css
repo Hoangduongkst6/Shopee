@@ -18,10 +18,6 @@
     .mobile-category__list {
         display: flex;
     }
-
-    .mobile-cart-input:checked ~ .header__cart-list {
-        display: block;
-    }
     
 }
 
