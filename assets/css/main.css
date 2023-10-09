@@ -912,6 +912,11 @@
     display: inline-block;
 }
 
+
+.mobile-cart-input:checked ~ .header__cart-list {
+    display: block;
+}
+
 .header__cart-list::before {
     content: "";
     position: absolute;
