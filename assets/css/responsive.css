@@ -1,10 +1,5 @@
 /* Mobile and tablet */
 @media (max-width: 1023px) {
-    :root {
-        --header-height: 68px;
-        --navbar-height: 0px;
-    }
-
     .hide-on-mobile-tablet {
         display: none;
     }
@@ -34,6 +29,11 @@
     .header__cart {
         width: 80px;
         text-align: right;
+    }
+
+    :root {
+        --header-height: 68px;
+        --navbar-height: 0px;
     }
     
 }
@@ -138,6 +138,11 @@
 
     .home-product-item__sale-off-label {
             font-size: 1.2rem;
+    }
+
+    :root {
+        --header-height: 54px;
+        --navbar-height: 0px;
     }
 
 }
