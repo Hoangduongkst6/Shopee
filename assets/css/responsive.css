@@ -145,4 +145,24 @@
         --navbar-height: 0px;
     }
 
+    .footer__heading {
+        text-align: center;
+    }
+
+    .footer-item {
+        text-align: center;
+    }
+
+    .footer-pay__list {
+        justify-content: center;
+    }
+
+    .footer_dowload-apps {
+        flex: none;
+    }
+
+    .footer__dowload {
+        justify-content: center;
+    }
+
 }
