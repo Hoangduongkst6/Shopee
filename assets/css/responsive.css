@@ -1,3 +1,10 @@
+/* PC */
+@media (min-width: 1024px) {
+    .header__cart-wrap:hover .header__cart-list {
+        display: inline-block;
+    }
+}
+
 /* Mobile and tablet */
 @media (max-width: 1023px) {
     .hide-on-mobile-tablet {
