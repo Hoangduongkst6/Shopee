@@ -25,6 +25,10 @@
     .mobile-category__list {
         display: flex;
     }
+
+    .header__cart-item-name {
+        height: 20px;
+    }
     
 }
 
