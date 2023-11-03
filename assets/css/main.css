@@ -994,10 +994,8 @@
 }
 
 .header__cart-list-item::-webkit-scrollbar {
-
     display: none;
-   
-   }
+}
 
 /* Cart item */
 .header__cart-item {
